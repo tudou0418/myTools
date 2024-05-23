@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.log
+
+# Environment variables
+.env
+
+# Debug logs from npm
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# System Files
+.DS_Store
+Thumbs.db

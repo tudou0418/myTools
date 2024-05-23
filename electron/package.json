@@ -1,0 +1,27 @@
+{
+  "name": "mytools",
+  "version": "0.0.1",
+  "description": "some tools",
+  "main": "main.js",
+  "scripts": {
+    "serve": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tudou0418/myTools.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "TuDou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tudou0418/myTools/issues"
+  },
+  "homepage": "https://github.com/tudou0418/myTools#readme",
+  "devDependencies": {
+    "electron": "^18.0.0",
+    "path-browserify": "^1.0.1"
+  }
+}
